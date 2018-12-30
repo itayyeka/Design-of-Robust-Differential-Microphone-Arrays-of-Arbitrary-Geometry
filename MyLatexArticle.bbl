@@ -1,0 +1,67 @@
+\begin{thebibliography}{10}
+
+\bibitem{sps1}
+M.~Brandstein and D.~Ward,
+\newblock {\em Microphone arrays: signal processing techniques and
+  applications},
+\newblock Springer Science \& Business Media, 2001.
+
+\bibitem{sps3}
+G.~W. Elko and J.~Meyer,
+\newblock ``Microphone arrays,''
+\newblock in {\em Springer Handbook of Speech Processing}, pp. 1021--1041.
+  Springer, 2008.
+
+\bibitem{sps4}
+J.~Benesty, J.~Chen, and Y.~Huang,
+\newblock {\em Microphone array signal processing}, vol.~1,
+\newblock Springer Science \& Business Media, 2008.
+
+\bibitem{sps6}
+J.~Benesty and J.~Chen,
+\newblock {\em Study and Design of Differential Microphone Arrays}, vol.~6,
+\newblock Springer Science \& Business Media, 2012.
+
+\bibitem{sps7}
+G.~W. Elko,
+\newblock ``Superdirectional microphone arrays,''
+\newblock in {\em Acoustic signal processing for telecommunication}, pp.
+  181--237. Springer, 2000.
+
+\bibitem{sps10}
+H.~Teutsch and G.~W Elko,
+\newblock ``First-and second-order adaptive differential microphone arrays,''
+\newblock in {\em Proc. Int. Workshop on Acoustic Echo and Noise Control
+  (IWAENC)}. Citeseer, 2001, pp. 35--38.
+
+\bibitem{sps11}
+G.~W. Elko,
+\newblock ``Microphone array systems for hands-free telecommunication,''
+\newblock {\em Speech communication}, vol. 20, no. 3, pp. 229--240, 1996.
+
+\bibitem{sps14}
+T.~D. Abhayapala and A.~Gupta,
+\newblock ``Higher order differential-integral microphone arrays,''
+\newblock {\em The Journal of the Acoustical Society of America}, vol. 127, no.
+  5, pp. EL227--EL233, 2010.
+
+\bibitem{sps15}
+E.~De~Sena, H.~Hacihabibo{\u{g}}lu, and Z.~Cvetkovi{\'c},
+\newblock ``On the design and implementation of higher order differential
+  microphones,''
+\newblock {\em Audio, Speech, and Language Processing, IEEE Transactions on},
+  vol. 20, no. 1, pp. 162--174, 2012.
+
+\bibitem{sps17}
+L.~Zhao, J.~Benesty, and J.~Chen,
+\newblock ``Design of robust differential microphone arrays,''
+\newblock {\em Audio, Speech, and Language Processing, IEEE/ACM Transactions
+  on}, vol. 22, no. 10, pp. 1455--1466, 2014.
+
+\bibitem{sps21}
+H.~L. Van~Trees,
+\newblock {\em Detection, estimation, and modulation theory, optimum array
+  processing},
+\newblock John Wiley \& Sons, 2004.
+
+\end{thebibliography}
